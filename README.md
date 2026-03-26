@@ -8,7 +8,7 @@ Este telar introduce 3 conceptos fundamentales de la computación moderna:
 3. El pixel
 - **Ada Lovelace, *la primera programadora*:** a pesar de que Babbage adoptó el mecanismo de tarjetas del telar, fue Lovelace quien entendió el sistema. Y no solo como un sistema que podia entender números, si no que cualquier cosa que se pudiera expresar simbólicamente.
 ## Maquinas en el proceso creativo
-- **Cybernetic Serendipity *1968*:**
+- **Cybernetic Serendipity *1968*:** Exposición organizada por Jasia Reichardt. Lugar que reunió obras que exploraban la relación entre arte, computación y cibernética, como gráficos generados por computador, máquinas interactivas y música electrónica. Es considerada una de las primeras grandes muestras de arte y tecnología.
 
 
 
