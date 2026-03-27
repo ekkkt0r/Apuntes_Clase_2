@@ -13,3 +13,5 @@ Este telar introduce 3 conceptos fundamentales de la computación moderna:
 - En *1969*, Latinoamérica no se queda atrás y, con la exposición “Arte y Cibernética”, *Jorge Glusberg* organiza y expone también arte generado por computadora.
 - **John & James Whitney:** Pioneros del arte por computadora y de la animación. Desarrollaron técnicas para crear imágenes en movimiento generadas mediante máquinas de guerra. Ellos llevaron las máquinas de guerra hacia el arte y animación experimental.
 - **John Maeda:** Diseñador y artista digital que relacionó la programación con el arte y el diseño, utilizando el código como herramienta creativa. es una figura importante en el desarrollo del diseño y arte digital.
+
+[Dibujo Geométrico](file:///Users/hector/Downloads/IMG_3215.heic)
