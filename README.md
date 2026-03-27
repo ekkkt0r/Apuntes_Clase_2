@@ -15,4 +15,5 @@ Este telar introduce 3 conceptos fundamentales de la computación moderna:
 - **John Maeda:** Diseñador y artista digital que relacionó la programación con el arte y el diseño, utilizando el código como herramienta creativa. es una figura importante en el desarrollo del diseño y arte digital.
 
 
-![Uploading IMG_3215.png…]()
+
+![IMG_3215](https://github.com/user-attachments/assets/2a3dc077-c287-42d2-82a6-bdd2a6f315a7)
